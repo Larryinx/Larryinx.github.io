@@ -1,19 +1,20 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io/personal-jekyll-theme"
+url: "https://larryinx.github.io"
 
 # Google tracking id
-google-tracking-id: "UA-XXXXXXXX-X"
+# google-tracking-id: "UA-XXXXXXXX-X"
+google-tracking-id: ""
 
 #############
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Larry Yinxi Li"
+title: "{ Yinxi Li }"
+description: "Website of Yinxi Li, blogging mainly for tech. Opinions expressed are mine."
+keywords: "no keywords"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
@@ -31,8 +32,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "We laughter and kept saying see you soon, but inside we both knew we'd never see each other again"
+  - text: "You know some birds are not meant to be caged, their feathers are just too bright"
+  - text: "carpe diem, con respicio"
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
