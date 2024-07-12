@@ -32,7 +32,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "We laughter and kept saying 'see you soon', but inside we both knew we'd never see each other again"
+  - text: "We laughed and kept saying 'see you soon', but inside we both knew we'd never see each other again"
   - text: "You know some birds are not meant to be caged, their feathers are just too bright"
   - text: "carpe diem, con respicio"
 me-img: "/img/jetpacktocat.png"
